@@ -1,0 +1,74 @@
+{
+  "credits": [
+    {
+      "name": "Smart TV",
+      "total": 6600.50,
+      "frequency": "monthly",
+      "duration": 12,
+      "payment": 550,
+      "started_on": "2024-01-10",
+      "payments": [
+        {
+          "amount": 550,
+          "paid_on": "2024-01-10:00:00:00"
+        }
+      ],
+      "current_total": 6000,
+      "next_payment_on": {
+        "day": "10",
+        "month": "02",
+        "year": "2024"
+      },
+      "expected_finished": "2024-01-10",
+      "finished_on": null
+    },
+    {
+      "name": "Celular",
+      "total": 7260,
+      "frequency": "monthly",
+      "duration": 12,
+      "payment": 605,
+      "started_on": "2023-03-20",
+      "payments": [
+        {
+          "amount": 600,
+          "paid_on": "2024-01-10:00:00:00"
+        }
+      ],
+      "current_total": 1210,
+      "next_payment_on": {
+        "day": "10",
+        "month": "02",
+        "year": "2024"
+      },
+      "expected_finished": "2024-03-20",
+      "finished_on": null
+    }
+  ],
+  "subscriptions": [
+    {
+      "name": "Natacion",
+      "payment": 807.5,
+      "frequency": "monthly",
+      "started_on": "2023-08-04",
+      "cancelled_on": null
+    }
+  ],
+  "bills": [
+    {
+      "name": "Luz",
+      "frequency": "monthly",
+      "payment": 300
+    },
+    {
+      "name": "Gas",
+      "frequency": "monthly",
+      "payment": 300
+    },
+    {
+      "name": "Internet",
+      "frequency": "monthly",
+      "payment": 300
+    }
+  ]
+}
